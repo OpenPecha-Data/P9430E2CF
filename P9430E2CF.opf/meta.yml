@@ -250,3 +250,8 @@ source_metadata:
       parent: Vajraṇakhī
 created_at: '2022-03-01T05:36:59.663268'
 last_modified_at: '2022-03-01T05:36:59.663271'
+statistics:
+  total_words: 49821
+  total_non_words: 6439
+quality:
+  non_words_ratio: 0.13
